@@ -1,0 +1,6 @@
+Tableau public link of dashboards and stories:
+1.https://public.tableau.com/views/MyDashboard_17511232303870/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+2.https://public.tableau.com/views/MyDashboard_17511232303870/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+3.https://public.tableau.com/views/MyStory_17511235364950/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
